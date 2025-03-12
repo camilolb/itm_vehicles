@@ -167,3 +167,4 @@
 /Users/clopez/Desktop/ITM.VehicleSales/obj/Debug/net8.0/ITM.VehicleSales.pdb
 /Users/clopez/Desktop/ITM.VehicleSales/obj/Debug/net8.0/ITM.VehicleSales.genruntimeconfig.cache
 /Users/clopez/Desktop/ITM.VehicleSales/obj/Debug/net8.0/ref/ITM.VehicleSales.dll
+/Users/clopez/Desktop/ITM.VehicleSales/obj/Debug/net8.0/ITM.VehicleSales.sourcelink.json
